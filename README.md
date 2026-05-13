@@ -174,16 +174,6 @@ The SSI analysis pipeline follows these stages:
 8. AI remediation generation
 9. PDF/JSON report export
 
-## 📸 Dashboard Features
-The web dashboard provides:
-* Real-time vulnerability visualization
-* Severity statistics
-* Searchable findings table
-* OWASP categorization
-* Security scoring
-* AI-generated remediation
-* Export functionalities
-
 ## 🔬 Technologies Used
 
 ### Backend
@@ -243,5 +233,3 @@ Apache License 2.0
 Special thanks to:
 * Mr. Mohamed LACHGAR
 * EMSI Marrakech
-* The open-source community
-for their support and contributions to this project.
